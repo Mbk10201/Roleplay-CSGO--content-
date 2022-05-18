@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/perceuse/screen"
+
+	$selfillum 1
+
+	$ambientocclusion 1
+}

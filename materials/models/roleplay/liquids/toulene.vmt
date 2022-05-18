@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/liquids/toulene"
+	$bumpmap "models/roleplay/liquids/toulene_n"
+}

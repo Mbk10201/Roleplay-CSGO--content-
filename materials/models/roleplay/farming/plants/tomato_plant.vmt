@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/farming/plants/tomato_plant"
+
+	$alphatest 1
+}

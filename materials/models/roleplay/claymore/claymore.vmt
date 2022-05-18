@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/claymore/claymore"
+	$surfaceprop Default
+}

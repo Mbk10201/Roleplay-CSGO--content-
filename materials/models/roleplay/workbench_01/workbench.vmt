@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/workbench_01/workbench"
+	$bumpmap "models/roleplay/workbench_01/workbench_normal"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.05 0.05 0.05]"
+
+	$phong 1
+	$phongfresnelranges "[1 3 7]"
+	$halflambert 1
+	$phongexponent 15
+	$phongboost 2
+
+	$rimlight 1
+	$rimlightexponent 10
+	$rimlightboost 0.5
+}

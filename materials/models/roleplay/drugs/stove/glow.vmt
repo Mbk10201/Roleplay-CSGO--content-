@@ -1,0 +1,9 @@
+UnlitGeneric
+{
+	$basetexture "models/roleplay/drugs/stove/glow"
+
+	$additive 1
+	$decal 1
+
+	$color2 "[0 1 0]"
+}

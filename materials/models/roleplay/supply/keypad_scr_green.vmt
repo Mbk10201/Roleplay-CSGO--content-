@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$basetexture "models/roleplay/supply/keypad_scr"
+
+	$color2 "[0 1 0]"
+}

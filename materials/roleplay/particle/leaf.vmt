@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	$basetexture "roleplay/particle/leaf"
+
+	$vertexcolor 1
+	$vertexalpha 1
+}

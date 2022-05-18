@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/roleplay/bitcoin/rack/ups_scrn_bg"
+    "$detail" "models/roleplay/bitcoin/rack/ups_scrn_text"
+    "$detailscale" "1"
+    "$detailblendmode" "8"
+    "$detailblendfactor" "1"	
+}

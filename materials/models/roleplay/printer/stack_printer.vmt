@@ -1,0 +1,20 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/printer/stack_printer_diffuse"
+	$bumpmap "models/roleplay/printer/stack_printer_norm"
+
+	$phong 1
+	$phongexponenttexture "models/roleplay/printer/stack_printer_exponent"
+	$phongfresnelranges "[1 1 1]"
+	$phongtint "[0 0 0]"
+	$phongboost 0.6
+
+	$rimlight 1
+	$rimlightexponent 3
+	$rimlightboost 1
+
+	$blendtintbybasealpha 1
+
+	$blendtintcoloroverbase 0
+	$model 1
+}

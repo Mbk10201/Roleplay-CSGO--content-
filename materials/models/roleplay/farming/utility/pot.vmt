@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/farming/utility/pot_albedo"
+	$bumpmap "models/roleplay/farming/utility/pot_normal"
+
+	$phong 1
+	$phongfresnelranges "[1 0.5 0.1]"
+	$phongtint "[0.90 0.58 0.50]"
+	$phongexponent 4
+	$phongboost 0.5
+}

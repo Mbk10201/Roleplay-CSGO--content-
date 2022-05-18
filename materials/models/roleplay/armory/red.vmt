@@ -1,0 +1,9 @@
+UnlitGeneric
+{
+	$basetexture "models/roleplay/armory/light_mask"
+
+	$additive 1
+	$decal 1
+
+	$color2 "[1 0 0]"
+}

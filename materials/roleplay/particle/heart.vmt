@@ -1,0 +1,11 @@
+UnlitGeneric
+{
+	$basetexture "roleplay/particle/heart"
+
+	$additive 1
+
+	$vertexcolor 1
+	$vertexalpha 1
+
+	$overbrightfactor .75
+}

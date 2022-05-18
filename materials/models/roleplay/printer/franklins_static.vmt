@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/printer/franklins_nocol"
+	$surfaceprop Paper
+
+	$nocull 1
+
+	$blendtintbybasealpha 1
+
+	$blendtintcoloroverbase 0
+}

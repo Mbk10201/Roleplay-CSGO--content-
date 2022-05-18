@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/farming/utility/sack_albedo"
+	$bumpmap "models/roleplay/farming/utility/sack_normal"
+}

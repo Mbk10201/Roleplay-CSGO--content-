@@ -1,0 +1,6 @@
+MonitorScreen
+{
+	$basetexture "roleplay/overlays/jail_gav"
+
+	$translucent 1
+}

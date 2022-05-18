@@ -1,0 +1,33 @@
+Refract
+{
+	$refract 1
+	$normalmap "roleplay/overlays/effect/effect01_nrm"
+	$bluramount 0.5
+
+	$ignorez 1
+
+	$angle 0
+	$center "[0.5 0.5]"
+	$def_scale "[1 1]"
+	$scale "[1 1]"
+	$translate "[0.0 0.0]"
+
+	Proxies
+	{
+		LinearRamp
+		{
+			rate 15
+			initialValue 0.0
+			resultVar "$angle"
+		}
+
+		TextureTransform
+		{
+			translateVar "$translate"
+			scaleVar "$def_scale"
+			rotateVar "$angle"
+			centerVar "$center"
+			resultVar "$bumptransform"
+		}
+	}
+}

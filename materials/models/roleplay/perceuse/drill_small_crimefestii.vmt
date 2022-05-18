@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/perceuse/drill_small_crimefestii"
+
+	$ambientocclusion 1
+}

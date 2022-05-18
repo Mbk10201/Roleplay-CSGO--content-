@@ -1,0 +1,25 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/armory/weapons"
+	$bumpmap "models/roleplay/armory/weapons_normal"
+
+	$detail "models/roleplay/armory/detail"
+	$detailblendfactor 0.2
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.03 0.03 0.03]"
+	$envmapcontrast 1
+	$envmapsaturation 0.5
+	$envmapfresnel 0.5
+
+	$phong 1
+	$phongfresnelranges "[1 3 7]"
+	$halflambert 1
+	$phongexponent 10
+	$phongboost 2
+
+	$rimlight 1
+	$rimlightexponent 15
+	$rimlightboost 0.2
+}

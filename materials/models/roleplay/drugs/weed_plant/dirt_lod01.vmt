@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/drugs/weed_plant/dirt_lod01"
+	$surfaceprop Dirt
+
+	$model 1
+}

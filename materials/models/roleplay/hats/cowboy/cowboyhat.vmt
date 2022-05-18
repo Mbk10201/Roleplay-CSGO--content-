@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/hats/cowboy/cowboyhat"
+	$bumpmap "models/roleplay/hats/cowboy/cowboyhat_norm"
+
+	$phong 1
+	$phongfresnelranges "[0.05 0.5 1]"
+	$phongexponent 12
+	$phongboost 3
+}

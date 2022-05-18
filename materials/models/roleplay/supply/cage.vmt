@@ -1,0 +1,21 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/supply/cage"
+	$bumpmap "models/roleplay/supply/cage_normal"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.03 0.03 0.03]"
+	$envmapcontrast 1
+	$envmapsaturation 0.5
+	$envmapfresnel 0.5
+
+	$phong 1
+	$phongfresnelranges "[3 6 10]"
+	$halflambert 1
+	$phongexponent 15
+
+	$rimlight 1
+	$rimlightexponent 15
+	$rimlightboost 0.2
+}

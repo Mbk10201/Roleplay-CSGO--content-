@@ -1,0 +1,39 @@
+UnlitTwoTexture
+{
+	$basetexture "models/roleplay/farming/utility/lamp_volumetric"
+	$texture2 "models/roleplay/farming/utility/lamp_volumetric_mod"
+
+	$additive 1
+	$nocull 1
+
+	$no_fullbright 1
+
+	$color2 "[0.98 0.92 1.10]"
+
+	$scale "[1 1]"
+	$translate "[0 0]"
+
+	Proxies
+	{
+		LinearRamp
+		{
+			rate 0.1
+			initialValue 0
+			resultVar "$translate[0]"
+		}
+
+		LinearRamp
+		{
+			rate -0.05
+			initialValue 0
+			resultVar "$translate[1]"
+		}
+
+		TextureTransform
+		{
+			translateVar "$translate"
+			scaleVar "$scale"
+			resultVar "$texture2transform"
+		}
+	}
+}

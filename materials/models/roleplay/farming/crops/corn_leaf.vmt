@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/farming/crops/corn_leaf"
+
+	$lightwarptexture "models/roleplay/farming/foliage_lightwarp_b"
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/roleplay/bitcoin/rack/kbrd"
+	"$translucent" 1
+	"$decal" "1"	
+}

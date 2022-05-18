@@ -1,0 +1,9 @@
+UnlitGeneric
+{
+	$basetexture "roleplay/particle/skankcloud"
+
+	$additive 1
+
+	$vertexcolor 1
+	$vertexalpha 1
+}

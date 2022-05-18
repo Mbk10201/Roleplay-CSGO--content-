@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/farming/crops/wheat"
+
+	$lightwarptexture "models/roleplay/farming/foliage_lightwarp"
+
+	$alphatest 1
+}

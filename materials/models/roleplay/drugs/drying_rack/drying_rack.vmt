@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/drugs/drying_rack/drying_rack"
+	$bumpmap "models/roleplay/drugs/drying_rack/drying_rack_normal"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.03 0.03 0.03]"
+
+	$phong 1
+	$phongfresnelranges "[1 3 7]"
+	$halflambert 1
+	$phongexponent 10
+	$phongboost 2
+
+	$rimlight 1
+	$rimlightexponent 10
+	$rimlightboost 0.5
+}

@@ -1,0 +1,6 @@
+MonitorScreen
+{
+	$basetexture "roleplay/overlays/death01"
+
+	$translucent 1
+}

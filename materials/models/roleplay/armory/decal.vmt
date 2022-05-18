@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/armory/decal"
+
+	$translucent 1
+	$decal 1
+}

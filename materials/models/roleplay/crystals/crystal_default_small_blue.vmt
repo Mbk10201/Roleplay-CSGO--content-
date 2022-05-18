@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/crystals/crystal_default_small_blue"
+	$surfaceprop Glass
+
+	$envmap "cubemaps/cubemap_sheen001"
+
+	$selfillum 1
+
+	$envcubemap 1
+
+	Proxies
+	{
+		Sine
+		{
+			resultVar "$selfIllumTint"
+			sinemin 1
+			sinemax 2
+			sineperiod 2.50
+		}
+	}
+}

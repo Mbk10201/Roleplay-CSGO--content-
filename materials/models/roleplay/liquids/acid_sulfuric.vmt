@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/liquids/acid_sulfuric"
+	$bumpmap "models/roleplay/liquids/acid_sulfuric_n"
+}

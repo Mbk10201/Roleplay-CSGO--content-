@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/farming/plants/wheat"
+
+	$alphatest 1
+	$alphatestreference 0.3
+	$nocull 1
+
+	$flashlightnolambert 1
+}

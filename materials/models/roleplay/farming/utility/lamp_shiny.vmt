@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/farming/utility/lamp_matte_albedo"
+	$bumpmap "models/roleplay/farming/utility/flatnormal"
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.32 0.32 0.32]"
+
+	$phong 1
+	$phongfresnelranges "[1 0.5 0.1]"
+	$phongexponent 16
+
+	$color2 "[0.20 0.20 0.20]"
+}

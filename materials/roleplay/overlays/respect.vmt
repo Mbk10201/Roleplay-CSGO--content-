@@ -1,0 +1,6 @@
+MonitorScreen
+{
+	$basetexture "roleplay/overlays/respect"
+
+	$translucent 1
+}

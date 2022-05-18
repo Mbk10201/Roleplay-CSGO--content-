@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/perceuse/drill_small_df"
+
+	$ambientocclusion 1
+}

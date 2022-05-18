@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"vehicles/120"
+	"$translucent" "1"
+}

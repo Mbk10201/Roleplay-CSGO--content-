@@ -1,0 +1,24 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/drugs/weed_plant/dirt"
+	$bumpmap "models/roleplay/drugs/weed_plant/dirt_nrm"
+	$surfaceprop Dirt
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.10 0.10 0.10]"
+	$envmapcontrast 1
+	$envmapfresnel 1
+	$envmapfresnelminmaxexp "[1 2 3]"
+
+	$phong 1
+	$phongfresnelranges "[1 1 1]"
+	$phongalbedotint 1
+	$phongexponent 300
+
+	$rimlight 1
+	$rimlightexponent 15
+	$rimlightboost 0.1
+
+	$model 1
+}

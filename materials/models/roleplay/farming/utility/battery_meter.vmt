@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/farming/utility/battery_meter"
+
+	$selfillum 1
+	$selfillummask "models/roleplay/farming/utility/battery_meter_selfillum"
+
+	selfillummaskscale 1.0
+}

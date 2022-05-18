@@ -1,0 +1,41 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/drugs/utility/water_v1"
+	$bumpmap "dev/water_normal"
+
+	$detail "dev/water"
+	$detailscale 1
+
+	$translucent 1
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.50 0.50 0.50]"
+
+	$phong 1
+	$phongfresnelranges "[1 1 1]"
+	$halflambert 1
+	$phongexponent 40
+	$phongboost 2
+
+	$rimlight 1
+	$rimlightexponent 10
+	$rimlightboost 1
+
+	Proxies
+	{
+		AnimatedTexture
+		{
+			animatedtexturevar "$bumpmap"
+			animatedtextureframenumvar "$bumpframe"
+			animatedtextureframerate 15
+		}
+
+		AnimatedTexture
+		{
+			animatedtexturevar "$detail"
+			animatedtextureframenumvar "$detailframe"
+			animatedtextureframerate 15
+		}
+	}
+}

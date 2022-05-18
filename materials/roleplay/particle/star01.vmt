@@ -1,0 +1,9 @@
+UnlitGeneric
+{
+	$basetexture "roleplay/particle/star01"
+
+	$additive 1
+
+	$vertexcolor 1
+	$vertexalpha 1
+}

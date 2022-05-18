@@ -1,0 +1,28 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/drugs/weed_plant/pot"
+	$bumpmap "models/roleplay/drugs/weed_plant/pot_nrm"
+	$surfaceprop Plastic
+
+	$detail "models/roleplay/drugs/weed_plant/noise01"
+	$detailscale 10
+	$detailblendfactor 2
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.03 0.03 0.03]"
+	$envmapcontrast 1
+	$envmapfresnel 1
+	$envmapfresnelminmaxexp "[1 2 3]"
+
+	$phong 1
+	$phongfresnelranges "[1 2 3]"
+	$phongalbedotint 1
+	$phongexponent 15
+
+	$rimlight 1
+	$rimlightexponent 15
+	$rimlightboost 0.1
+
+	$model 1
+}

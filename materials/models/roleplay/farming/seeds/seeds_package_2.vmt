@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/farming/seeds/seeds_package_sheet"
+
+	$basetexturetransform "center 0.5 0.5 scale 1 1 rotate 0 translate 0.125 0"
+}

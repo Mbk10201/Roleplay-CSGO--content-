@@ -1,0 +1,5 @@
+"MonitorScreen"
+{
+	"$basetexture" "roleplay/overlays/permis_question01"
+	"$translucent" 1
+}

@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models/roleplay/barriere_02/pfence"
+	$surfaceprop Concrete
+}
